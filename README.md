@@ -1,1 +1,1 @@
-https://www.figma.com/design/Rv7z3pqvdGkT8kWbQTHZUQ/Untitled?node-id=1-2&m=dev&t=cLAG42ugweiffefR-1
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Rv7z3pqvdGkT8kWbQTHZUQ/Untitled?node-id=1-2&embed-host=share" allowfullscreen></iframe>
